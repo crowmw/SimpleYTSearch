@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+/node_modules
+bundle.js
+npm-debug.log
+
 # Folder config file
 Desktop.ini
 
